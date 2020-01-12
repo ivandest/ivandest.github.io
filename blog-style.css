@@ -8,18 +8,18 @@
   
   /* Style the header */
   header {
-    background-color: #666;
+    background-color: rgb(159, 209, 221);
     padding: 30px;
     text-align: center;
     font-size: 35px;
-    color: white;
+    color: black;
   }
   
   /* Create two columns/boxes that floats next to each other */
   nav {
     float: left;
     width: 30%;
-    background: #ccc;
+    background: #e4f8f6;
     padding: 20px;
   }
   
@@ -50,10 +50,10 @@
   /* Style the footer */
   footer {
       flex: 0 0 auto;
-    background-color: #777;
+    background-color: rgb(159, 209, 221);
     padding: 10px;
     text-align: center;
-    color: white;
+    color: black;
   }
   
   /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
