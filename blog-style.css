@@ -33,6 +33,16 @@
     list-style-type: inherit
   }*/
 
+  section ul {
+    padding: 0;
+    align-self: initial;
+  }
+  section li {
+    list-style-position: inside;
+    list-style-type: square;
+    text-align: left;
+  }
+
   article {
     float: left;
     padding: 20px;
